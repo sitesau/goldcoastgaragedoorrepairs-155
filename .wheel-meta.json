@@ -1,0 +1,22 @@
+{
+  "wheel_id": 981,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-155",
+  "project": "garage-door-repair-gold-coast-council-and-approvals-7d09b0494ca",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-014",
+  "node_role": "buffer",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repair gold coast council and approvals",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-155/",
+  "tier": "T2",
+  "writeback_nonce": "cfad13be2e08686e",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/garage-door-repair-gold-coast-goldcoastgaragedoorrepairs-014/",
+      "anchor": "more on garage door repair gold coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
